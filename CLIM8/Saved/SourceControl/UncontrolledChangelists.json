@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/UnrealProjects/CLIM8/Content/StarterContent/Particles/P_Explosion.uasset",
+				"G:/UnrealProjects/CLIM8/Content/SceneObject/BP_Ladder.uasset",
+				"G:/UnrealProjects/CLIM8/Content/SceneObject/SM_Footbar.uasset",
+				"G:/UnrealProjects/CLIM8/Content/SceneObject/BP_DynamicLadder.uasset",
+				"G:/UnrealProjects/CLIM8/Content/StaticMeshes/SM_LadderFootBar.uasset",
+				"G:/UnrealProjects/CLIM8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/8J/YUZWRCLOZVVUW2X2O0MMCR.uasset",
+				"G:/UnrealProjects/CLIM8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/4F/IC5BWX8PFWZ7N2HSIMVCTD.uasset",
+				"G:/UnrealProjects/CLIM8/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/2U/OT48JKUXWT2W8554YXBL4L.uasset"
+			]
+		}
+	]
+}
