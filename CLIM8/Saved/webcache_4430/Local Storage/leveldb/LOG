@@ -1,2 +1,3 @@
-2025/01/14-03:35:16.935 5fac Creating DB G:/UnrealProjects/CLIM8/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2025/01/14-03:35:16.951 5fac Reusing MANIFEST G:/UnrealProjects/CLIM8/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/01/15-06:17:14.618 6e0c Reusing MANIFEST G:/UnrealProjects/gitCLIM8/CLIM8/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2025/01/15-06:17:14.626 6e0c Recovering log #3
+2025/01/15-06:17:14.632 6e0c Reusing old log G:/UnrealProjects/gitCLIM8/CLIM8/Saved/webcache_4430\Local Storage\leveldb/000003.log 
